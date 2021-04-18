@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  padding: 20px;
+}
+
+.imagen {
+  flex-grow: 1;
+  height: 344px;
+  background-image: url('http://static.canva.com/marketplace/banners/FirstExp_Desktop_2400x1200.jpg');
+  background-size: 105%;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.in {
+  width: 600px;
+  height: 40px;
+}
+
+p, h1 {
+  color: white;
+}
+
+h1 {
+  margin:0;
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+p {
+  margin: 0;
+  margin-top: 16px;
+}

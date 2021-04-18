@@ -1,0 +1,33 @@
+* {
+  color:#0e1318;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+}
+.home {
+  font-weight: 600;
+  background-color: rgba(64, 87, 109, .07);
+  border-radius: 5px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+button {
+  padding: 10px 15px;
+  margin-right: 10px;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.signup {
+  background-color: #662bb4;
+  color: #fff;
+  font-weight: 600;
+}
+.input {
+  flex-grow: 1;
+  margin-left: 30px;
+}
