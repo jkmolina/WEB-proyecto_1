@@ -1,0 +1,16 @@
+.designs {
+  display: flex;
+  margin: 20px;
+}
+
+.designs img {
+  width: 192px;
+  height: 144px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(204, 204, 204, 0.308);
+}
+
+.designs div {
+  padding: 0 24px 0 0;
+}
