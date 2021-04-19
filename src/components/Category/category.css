@@ -1,0 +1,16 @@
+ul {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.catItem {
+  padding: 0;
+  color: rgba(17,23,29,.6);
+}

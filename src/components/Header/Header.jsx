@@ -10,7 +10,7 @@ const Header = () => (
   <header>
     <img src={logo} alt="canva logo" />
     <div>
-      <a className="home" href=".">Home</a>
+      <a href=".">Home</a>
       <Drop text="Templates" />
       <Drop text="Features" />
       <Drop text="Learn" />

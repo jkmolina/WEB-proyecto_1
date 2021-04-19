@@ -1,0 +1,40 @@
+footer {
+  border-top: 2px solid rgba(204, 204, 204, 0.342);
+  padding: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 2px solid rgba(204, 204, 204, 0.342);
+}
+
+.copyright {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.lang {
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.lang span {
+  height: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.facebook {
+  color: #3b5998;
+}
+
+.twitter {
+  color: #1da1f2;
+}
+
+.social {
+  padding: 0;
+}

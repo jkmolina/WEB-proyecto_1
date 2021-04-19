@@ -10,7 +10,9 @@ const Design = () => (
       <div className="in">
         <Input />
       </div>
-      <p>Everyone can create professional designs with Canva. It&apos;s easy to use and free.</p>
+      <p>
+        Everyone can create professional designs with Canva. It&apos;s easy to use and free.
+      </p>
     </div>
   </div>
 )

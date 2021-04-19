@@ -33,6 +33,11 @@ module.exports = {
   plugins: [new HtmlWebpackPlugin({
     templateContent: `
       <html>
+        <head>
+          <title>Collaborate & Create Amazing Graphic Design for Free</title>
+          <link rel="shortcut icon" href="https://static.canva.com/static/images/favicon.ico">
+          <meta charset="utf-8">
+        </head>
         <body>
           <div id="root"></div>
         </body>
